@@ -167,6 +167,7 @@
     {"id":{"name":"TweenEasySpeedHV","path":"scripts/TweenEasySpeedHV/TweenEasySpeedHV.yy",},"order":7,},
     {"id":{"name":"ext_PropUser__","path":"scripts/ext_PropUser__/ext_PropUser__.yy",},"order":1,},
     {"id":{"name":"image_blend__","path":"scripts/image_blend__/image_blend__.yy",},"order":15,},
+    {"id":{"name":"cameraObject","path":"objects/cameraObject/cameraObject.yy",},"order":5,},
     {"id":{"name":"EaseInQuad","path":"scripts/EaseInQuad/EaseInQuad.yy",},"order":16,},
     {"id":{"name":"TweenDestroyWhenDone","path":"scripts/TweenDestroyWhenDone/TweenDestroyWhenDone.yy",},"order":2,},
     {"id":{"name":"TweenSystemFlushDestroyed","path":"scripts/TweenSystemFlushDestroyed/TweenSystemFlushDestroyed.yy",},"order":4,},
