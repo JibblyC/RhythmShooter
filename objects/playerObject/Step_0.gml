@@ -1,3 +1,4 @@
+
 firingDelay = firingDelay - 1;
 if(keyboard_check_pressed(ord("A")) || keyboard_check_pressed(ord("D"))){
 	if(keyboard_check_pressed(ord("D"))){
@@ -35,7 +36,6 @@ if(keyboard_check_pressed(vk_space) && (firingDelay < 0)){
 	with(instance_create_layer(x,y,"Bullets",bulletObject)){
 		speed = 8;
 		direction = playerObject.playerCurrentDirection;
-		image_angle = direction;
 	}
 	
 	

@@ -1,1 +1,0 @@
-script_draw_grid();
