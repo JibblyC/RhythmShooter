@@ -1,4 +1,4 @@
-if (place_meeting(x,y,wallObject)){
+if (place_meeting(x,y,wallObject) || place_meeting(x,y,enemyObject)){
 	speed = 0;
 	sprite_index = bulletDestroySprite;
 	image_speed = .3;
